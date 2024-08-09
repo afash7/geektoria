@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "stacked by insight"
+    return "<h1> stacked by insight </h1>"
