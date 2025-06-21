@@ -1,0 +1,33 @@
+baseURL = 'https://geektoria.ir/'
+languageCode = 'fa'
+defaultContentLanguage = 'fa'
+title = 'Geektoria'
+theme = 'PaperMod'
+
+[languages]
+  [languages.fa]
+    languageName = "فارسی"
+    weight = 1
+    contentDir = "content/fa"
+    direction = "rtl"
+    title = "گیک‌طوریا"
+    languageCode = "fa-ir"
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    contentDir = "content/en"
+    languageCode = "en-us"
+
+  [languages.ru]
+    languageName = "Русский"
+    weight = 3
+    contentDir = "content/ru"
+    languageCode = "ru"
+
+  [languages.ar]
+    languageName = "العربية"
+    weight = 4
+    contentDir = "content/ar"
+    direction = "rtl"
+    languageCode = "ar"
