@@ -1,9 +1,10 @@
 ---
 title: "The Geektoria Manifesto"
 date: 2025-06-13T23:59:00+0330
-draft: true
+draft: false
 id: ""
 epoch: ""
+lang: "en"
 language: "en"
 tags: []
 categories: []

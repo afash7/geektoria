@@ -1,7 +1,27 @@
-baseURL = 'https://geektoria.ir/'
+baseURL = "https://afash7.github.io/geektoria/"
 languageCode = 'en'
 defaultContentLanguage = 'en'
 title = 'Geektoria'
 theme = 're-terminal'
+canonifyURLs = true
 
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    contentDir = "content/en"
+    params.showLanguageSelector = true
 
+  [languages.ru]
+    languageName = "Русский"
+    weight = 4
+    contentDir = "content/ru"
+    params.showLanguageSelector = true
+
+  [languages.ar]
+    languageName = "العربية"
+    weight = 3
+    contentDir = "content/ar"
+    params.showLanguageSelector = true
+
+  
