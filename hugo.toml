@@ -1,7 +1,7 @@
 baseURL = 'https://geektoria.ir/'
-languageCode = 'fa'
-defaultContentLanguage = 'fa'
+languageCode = 'en'
+defaultContentLanguage = 'en'
 title = 'Geektoria'
-theme = 'terminal'
+theme = 're-terminal'
 
 
