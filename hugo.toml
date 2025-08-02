@@ -6,6 +6,12 @@ theme = 're-terminal'
 canonifyURLs = true
 
 [languages]
+  [languages.fa]
+    languageName = "فارسی"
+    weight = 1
+    contentDir = "content/fa"
+    params.showLanguageSelector = true
+  
   [languages.en]
     languageName = "English"
     weight = 2
