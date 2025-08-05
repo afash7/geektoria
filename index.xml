@@ -1,74 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Geektoria</title>
-    <link>https://afash7.github.io/geektoria/</link>
-    <description>Recent content on Geektoria</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 13 Jun 2025 23:59:00 +0330</lastBuildDate><atom:link href="https://afash7.github.io/geektoria/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Geektoria Manifesto</title>
-      <link>https://afash7.github.io/geektoria/posts/geektoria-manifesto/</link>
-      <pubDate>Fri, 13 Jun 2025 23:59:00 +0330</pubDate>
-      
-      <guid>https://afash7.github.io/geektoria/posts/geektoria-manifesto/</guid>
-      <description>&lt;p&gt;Geektoria is an open, specialized, and unapologetically geeky online journal — an ultra-specialized, non-commercial, non-mainstream publishing project designed in direct contrast to traditional content media structures. It is not built for the masses, nor for the market. There is no SEO, no click-optimization, no social media algorithm engineering here.&lt;/p&gt;
-&lt;p&gt;Geektoria is a multilingual space (currently in Persian, English, Russian, and Arabic) for minds seeking writing that transcends the most superficial layers of the internet.
-🧭 The Three Foundational Principles of Geektoria:&lt;/p&gt;</description>
-      <content>&lt;p&gt;Geektoria is an open, specialized, and unapologetically geeky online journal — an ultra-specialized, non-commercial, non-mainstream publishing project designed in direct contrast to traditional content media structures. It is not built for the masses, nor for the market. There is no SEO, no click-optimization, no social media algorithm engineering here.&lt;/p&gt;
-&lt;p&gt;Geektoria is a multilingual space (currently in Persian, English, Russian, and Arabic) for minds seeking writing that transcends the most superficial layers of the internet.
-🧭 The Three Foundational Principles of Geektoria:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;No Publishing Structures
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Geektoria</title><link>https://afash7.github.io/geektoria/</link><description>Recent content on Geektoria</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 13 Jun 2025 23:59:00 +0330</lastBuildDate><atom:link href="https://afash7.github.io/geektoria/index.xml" rel="self" type="application/rss+xml"/><item><title>The Geektoria Manifesto</title><link>https://afash7.github.io/geektoria/posts/geektoria-manifesto/</link><pubDate>Fri, 13 Jun 2025 23:59:00 +0330</pubDate><guid>https://afash7.github.io/geektoria/posts/geektoria-manifesto/</guid><description>&lt;p>Geektoria is an open, specialized, and unapologetically geeky online journal — an ultra-specialized, non-commercial, non-mainstream publishing project designed in direct contrast to traditional content media structures. It is not built for the masses, nor for the market. There is no SEO, no click-optimization, no social media algorithm engineering here.&lt;/p>
+&lt;p>Geektoria is a multilingual space (currently in Persian, English, Russian, and Arabic) for minds seeking writing that transcends the most superficial layers of the internet.
+🧭 The Three Foundational Principles of Geektoria:&lt;/p></description><content>&lt;p>Geektoria is an open, specialized, and unapologetically geeky online journal — an ultra-specialized, non-commercial, non-mainstream publishing project designed in direct contrast to traditional content media structures. It is not built for the masses, nor for the market. There is no SEO, no click-optimization, no social media algorithm engineering here.&lt;/p>
+&lt;p>Geektoria is a multilingual space (currently in Persian, English, Russian, and Arabic) for minds seeking writing that transcends the most superficial layers of the internet.
+🧭 The Three Foundational Principles of Geektoria:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>No Publishing Structures
 This journal is not affiliated with any official institution, publisher, or market-driven agenda. Its entire structure is deliberately anti-model and anti-publishing.
 Geektoria operates outside the conventional frameworks of media and publishing: no publishers, no licenses, no traditional-style editors.
-Anything that smells like the content industry has no place here.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Content Indecipherable to Language Models
+Anything that smells like the content industry has no place here.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Content Indecipherable to Language Models
 Only works deeply embedded with human experience, professional intuition, and unconscious layers will be published —
 the kind of content that no language model, not even GPT-6, can truly understand by just crawling the internet.
 At most, maybe two or three people on Earth might have had similar experiences.
-By content, we mean material so fused with human depth, expert-level intuition, and personal insights that no language model — even GPT-n+ — could possibly reconstruct it from the internet alone.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The Reader is a Network Node, Not a Consumer
+By content, we mean material so fused with human depth, expert-level intuition, and personal insights that no language model — even GPT-n+ — could possibly reconstruct it from the internet alone.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>The Reader is a Network Node, Not a Consumer
 No one here is just a reader.
 Anyone who reads or writes is an active node in a living network.
 To read is to participate in computation.
 To contribute is to engage in nonlinear interaction — not just typing a paragraph.
 Connections are designed like a mesh topology, not based on traditional hierarchies.
-🧱 Supplementary Principles of Geektoria:&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Language is not just a Tool — It&amp;rsquo;s a Battlefield
+🧱 Supplementary Principles of Geektoria:&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Language is not just a Tool — It&amp;rsquo;s a Battlefield
 Writings are never simplified.
 Each text demands its own mental compiler.
 Some articles may take months just to be understood — and this is fully intentional.
 Texts are purposefully complex, layered, and open to interpretation.
 Each article invents its own linguistic ecosystem.
-Simplification is taboo.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Code is Part of Our Language
+Simplification is taboo.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Code is Part of Our Language
 You may encounter pseudo-code, shell snippets, config files, or even Git comments within articles.
 Our language is not limited to human language.
 Understanding certain concepts requires multilingual expression — including code.
-The goal here is not readability, but linguistic challenge and multi-layered comprehension.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Every Article is a Mental Seed — Not a Final Product
+The goal here is not readability, but linguistic challenge and multi-layered comprehension.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Every Article is a Mental Seed — Not a Final Product
 The writings are not designed to deliver answers, but to embed a question in your mind — one that may never be resolved, but whose path of discovery is worth the journey.
 Articles may remain half-cooked and fermenting for days or months.
 We don’t write by calendar — we write by mental readiness and thematic ripeness.
 Here, articles are crafted to plant questions, not deliver solutions.
-Some of these questions will never be solved — and that unresolved tension in your mind is the real message.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</content>
-    </item>
-    
-  </channel>
-</rss>
+Some of these questions will never be solved — and that unresolved tension in your mind is the real message.&lt;/p>
+&lt;/li>
+&lt;/ol></content></item></channel></rss>
